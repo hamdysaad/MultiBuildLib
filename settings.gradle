@@ -1,2 +1,3 @@
+include ':myMultiBuildlibrary'
 include ':app'
 rootProject.name = "MuiltiBuildLib"
